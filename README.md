@@ -1,6 +1,7 @@
 # iTCLab-02 Test
 
 This is another sample alternative script to test the iTCLab Kit.
+The following script can be used: https://github.com/bsrahmat/itclab-02/blob/main/02-Test_iTCLab2.ino.
 
 iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for feedback control applications with an ESP32 Microcontroller, LED, two heaters, and two temperature sensors. The heating power output is adjusted to maintain the desired temperature setpoint. Heat energy from the heater is transferred by conduction, convection, and radiation to the temperature sensor. Heat is also transferred from the device to the environment.
 

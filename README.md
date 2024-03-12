@@ -76,7 +76,6 @@ void loop() {
 ## PWM Testing Program
 
 PWM_Testing is a simple program for testing Pulse Width Modulation (PWM) of the iTCLab Kit. This PWM setting will later be used to increase and decrease the heat on the iTCLab heater. In this simple PWM Testing program example, the result of the PWM setting is shown by turning on the LED from dim to bright, and from bright to dim. Repeatedly.
-
 <br>
 </br>
 

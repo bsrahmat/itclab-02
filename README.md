@@ -90,9 +90,9 @@ PWM_Testing is a simple program for testing Pulse Width Modulation (PWM) of the 
 
 ### Another alternative is to download the tutorial:
 
-- <a href="https://www.academia.edu/" target="_blank">https://www.academia.edu/</a>
+- <a href="https://www.academia.edu/116155979" target="_blank">https://www.academia.edu/116155979</a>
 
-- <a href="https://www.researchgate.net/publication/" target="_blank">https://www.researchgate.net/publication/</a>
+- <a href="https://www.researchgate.net/publication/378904388" target="_blank">https://www.researchgate.net/publication/378904388</a>
 
 <br>
 </br>
